@@ -1,0 +1,221 @@
+{
+    "id": 125182567,
+    "sku": "3945825763277",
+    "name": "Máy đọc sách All New Kindle Paperwhite 5 (11th Gen) - Hàng nhập khẩu",
+    "url_key": "may-doc-sach-all-new-kindle-paperwhite-5-11th-gen-hang-nhap-khau-p125182567",
+    "url_path": "may-doc-sach-all-new-kindle-paperwhite-5-11th-gen-hang-nhap-khau-p125182567.html?spid=125182569",
+    "type": "",
+    "author_name": "",
+    "book_cover": null,
+    "brand_name": "Kindle",
+    "short_description": "",
+    "price": 3780000,
+    "list_price": 0,
+    "badges": [],
+    "badges_new": [
+        {
+            "code": "authentic_brand",
+            "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+            "icon_height": 20,
+            "icon_width": 89,
+            "placement": "under_product_image",
+            "type": "icon_badge"
+        },
+        {
+            "code": "installment",
+            "placement": "under_rating",
+            "text": "Trả góp",
+            "type": "under_rating_text"
+        },
+        {
+            "code": "freegift_items",
+            "placement": "under_rating",
+            "text": "Quà tặng",
+            "type": "under_rating_text"
+        },
+        {
+            "code": "is_hero",
+            "icon": "https://salt.tikicdn.com/ts/upload/0f/27/42/1fff0f8fe6125514354597d1c5f5260c.png",
+            "icon_height": 20,
+            "icon_width": 74,
+            "placement": "under_product_image_2",
+            "type": "icon_badge"
+        },
+        {
+            "code": "delivery_info_badge",
+            "placement": "delivery_info",
+            "text": "Giao thứ 2, 29/04",
+            "type": "delivery_info_badge"
+        },
+        {
+            "code": "brand_name",
+            "placement": "above_product_name",
+            "text": "KINDLE",
+            "text_color": "#808089",
+            "type": "text_above_product_name"
+        },
+        {
+            "arr_text": [
+                {
+                    "value": "6 Dung lượng"
+                }
+            ],
+            "code": "variant_count",
+            "placement": "under_rating_v2",
+            "text_color": "#808089",
+            "type": "text_box"
+        },
+        {
+            "code": "gift_product",
+            "images": [
+                {
+                    "image_height": 32,
+                    "image_url": "https://salt.tikicdn.com/cache/128x128/ts/product/d8/f6/95/1e65060fcb787768e3bf24f9394c1d33.jpg",
+                    "image_width": 32
+                }
+            ],
+            "placement": "under_rating_v2",
+            "text": "1 quà",
+            "text_color": "#808089",
+            "type": "images_text_promotion"
+        },
+        {
+            "code": "text_deal",
+            "placement": "under_rating_v2",
+            "promotions": [],
+            "text_color": "#808089",
+            "type": "icon_text_promotion"
+        }
+    ],
+    "discount": 0,
+    "discount_rate": 0,
+    "rating_average": 5,
+    "review_count": 386,
+    "order_count": 0,
+    "favourite_count": 0,
+    "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/2f/c6/a161edd03cf817a13d4c3255d1467f0a.jpg",
+    "thumbnail_width": 280,
+    "thumbnail_height": 280,
+    "freegift_items": [],
+    "has_ebook": false,
+    "inventory_status": "",
+    "is_visible": false,
+    "productset_id": 2653,
+    "productset_group_name": "",
+    "seller": null,
+    "is_flower": false,
+    "is_gift_card": false,
+    "inventory": null,
+    "url_attendant_input_form": "",
+    "option_color": [],
+    "stock_item": null,
+    "salable_type": "",
+    "seller_product_id": 125182569,
+    "installment_info": null,
+    "url_review": "",
+    "bundle_deal": false,
+    "quantity_sold": {
+        "text": "Đã bán 1.4k",
+        "value": 1437
+    },
+    "tiki_live": null,
+    "original_price": 3780000,
+    "shippable": true,
+    "impression_info": [
+        {
+            "impression_id": "thanos-YizvW0bewkkxQnd8-nxhViHLl",
+            "metadata": {
+                "astra_reward": 0,
+                "category": 1789,
+                "delivery_date": "2024/04/29",
+                "delivery_info_badge_text": "Giao thứ 2, 29/04",
+                "delivery_zone": "VN039006001",
+                "discount_rate": 0,
+                "flags": {
+                    "_v": "filter_revamp"
+                },
+                "is_ad": 1,
+                "is_astra_plus": 0,
+                "is_official_store": 0,
+                "is_tikinow": 0,
+                "is_tikipro": 0,
+                "is_trusted_store": 0,
+                "mpid": 125182567,
+                "params": {
+                    "_v": "filter_revamp",
+                    "aggregations": "2",
+                    "category": "1789",
+                    "include": "advertisement",
+                    "limit": "40",
+                    "page": "1",
+                    "trackity_id": "0c5337dd-cf75-db38-3651-1b34f1d2dd76",
+                    "urlKey": "dien-thoai-may-tinh-bang",
+                    "version": "home-persionalized"
+                },
+                "position": 1,
+                "price": 3780000,
+                "quantity_sold": 1437,
+                "rating": 5,
+                "request_id": "YizvW0bewkkxQnd8",
+                "spid": 125182569,
+                "tiki_verified": 1
+            },
+            "checksum": ""
+        }
+    ],
+    "advertisement": {
+        "ad": [
+            {
+                "clickUrl": "//tka.tiki.vn/pixel/pixel?data=5eOedPJMrBOBxhv_2bJvH2IyJizs0fLAyj67tmHsKkn_7J6UldOaKydOeOojQ6YdruBeaB9MJ0liaNa_-h1azG-6lzeDkapwqaRGAdad3JvAzS_lcgWlZjTuFOeeSIgnsU6eieDPjSZCQsZWV-AM5ZxE-cmY9dXbfPFJ9MlT4KSu5C99a6H6eT5d1lZUf-vMa-TC8FvlPDTuayjGtw7Y7802h4imKXhLdY-cWuZ3MaPeHL_Fmpbl1u6wBVnlnzEkdUJQbuHEf6LQhXN-fusKuDh_v2zkgjb-hInu3kGLL4R4Dr4B33wGjXd2xht1ebW19c15X6AAlt_lkMp-dNiSof0EPPFs2fKGUynBnS5gbHLRV_mRPunQlRa00uzaWQbnOAliuotTCi3qKAnm3ZBDaNdeANmC-tyvTmb6OYRN8yIduT858W1l7PlaSv2Ed5M8uTt5Oyqfzo0U5OA87x6qq8htG2MaPY_QVS9ATIZAi0kmoIBwZXsw1MXvp-YK4VoHt4PaLYKa_kelTG0UhuwOUmPDVnU18__4IT-qb8s7MD1yPpZ5HJ2VKvlV4YfsDqi-0DdcskQy1V5gV-RFUnCQzWJfdtHxInhafJymJfCM0R5r_Kv3pbXzjj_cWFhhEhbdNZYV5EIBXQ94S5pTDxHpPIe5oLumEF-0wMWBWhxw1pTYXVQrnVowY7MNWQD9MnYZwuWD7Ymakhgmu5LZg_x2is2qyJTgn2TpXGSDM5XYT22onbMYkeKLJHn0NQwvRkiCDcmRkBEtq1p_kBJ0DxQCMAzPKTO0aeoG9aAGvqoHlRIXcoEsQ2aG23mMVCc1Qxjf0UXm4p-PnsJ12n8DHdTTAkXy1lmLIilcAgZVmPSCFMMBsfzQUyj87jEe2koe19sWo3PyVu_TdQQyrxEK6kr3MmOc7Ep8Uqf2UWaFJ8GbkoSLrUdo-6K5NBIrX3WzX4Gh5Lt1Ke9iSct4I3m2dMDsUMQY_dv1FbahDcWUmZNPhf66XOvEdgq5UCkeyFKKjMrueXydfvE4jEZhGSOnBlZVGk-KCzk1dHM5gD4I-HmUzA-cNzaKKET5dONnnl_N3269c2om5-G98LQlDak8wcZMIl4HoH8ffCNB6iKzSZnxZQfKkRFCrlZp9ZE&reqid=YizvW0bewkkxQnd8&type=CLICK&pos=1",
+                "impUrl": "//tka.tiki.vn/pixel/pixel?data=0ovsF8mRwc7F1LrG5goX7X46mCW8Wu6TIvdoKjMchNINFzqWoqIFj7W2DZm29WhY_DujCKtYetvhDVNJ9B3HiNd-yjF7ruxZQ16ja9FTgiPxYf0JWlzWnhKgij0EJCI0knjKDpcNUgGT-xhCOS3gJHFW8xeCdShZ-qXqwyVas379C8njeknar6zGnUS5yK0j41Otsfabn5ZCmx2upT_-JHcf84UoihwzT8GBrNLVypZ87KOd_cG0ZazF-gwYfbovobresbwaPTpDvDKov34t6NiVYmNRiMlfyGDl46C_rLpc1e9V8jBcxTaZXDl_W-j-nWcKQdQjGeqODEwRfQsBprTB8YO5ldrJW7Ll68V4VOfE0_oplE72HcV0Jvcd9669h6_b9VObqTw5P9JYe-JYkeagqJUrlLDTj4RYd0d-0hsDPKSOxijPlMjL2n6VQuJ5HOG0QMMeYYrBmErERM5glseR5tK_BfJ1FeyNPtQsDouy4F8QA9PRYsr-Y5rFdtEWkMYcx7NeXIjHNUOkdjFU1jvQ93OXyeZy4Qtic8aSu5m7W48yXbTKOaQfemZdlhJeEMbgq8JnCytVavhFrTSP8NRQrS3ZXR_Jezfke5bUxt--9r70JhXlbsuPm7mFHYBVy2ZuXDxTYjdDjFwIo3EN2ZSQDEGkaEm8dz3xqtU6qQ3v_jI7NdUGpQ8A9mjTxvOgHfJbZ_0IOsPEjOPqUGSVsq1vbRHlmGjaFpZ2cYV-KGwx9aD_0wcFvYv9wt_lsR4TjPMFaFPpJLDfc3tsXwEc-lUj-_3ppFRIDf0&reqid=YizvW0bewkkxQnd8&type=SHOW&pos=1",
+                "properties": {
+                    "cta": "Xem ngay",
+                    "product_id": "125182569",
+                    "url": "https://tiki.vn/may-doc-sach-all-new-kindle-paperwhite-5-11th-gen-hang-nhap-khau-p125182567.html?itm_campaign=CTP_YPD_TKA_PLA_UNK_ALL_UNK_UNK_UNK_UNK_X.204054_Y.1786374_Z.3548453_CN.PPW5--Chuan-nhat&itm_medium=CPC&itm_source=tiki-ads&spid=125182569"
+                },
+                "seller_id": 38963,
+                "trueImpUrl": "//tka.tiki.vn/pixel/pixel?data=s062zcO4C09HkFSaiZsBferuplmgtIh5JLXmtumuG-eLT5yP1b-r-OhHIRYx39_g_woR01y_Dfjwn5FZ8BtipghUrscCmtV899ALNH86Wd_HpHOcFHc83cc7f2jOuukYSm-WZeknOA9mNrrQzTFuDrozBFYIxjmsV8w-5Qlg-Nd1Ei4z7XWsBgc9HG9Hx97B3wom2LIslvi47W1umNTCZCH-i6JOuysWtyV2w0sHnjl0FJDTBEecirG7Uk224hZjAHCXV1EfVQfcOFKaCWWtxjeY5KxKRcNq2XUtCpn6wjI1eG4onL6MFU18uvBcGGNklwGa6cxWFX3_cjdgYNX8TVHnmQWMb_Vi0oEKYCOO_cx0hzkk_Y_MZdeEnAZuNHdhRaNpQoAD8rTlanwhxvZVT4xqtvrCxKeZtcujtlAiWsCyEGfXhkbXPilczl_y7L1vkd-YK5vj1Jv3tKKPJLiMeVydpY98bHNvZz_VAH76YVw-O2FW53sOreDSqgqaNJNNpd-KDku8sjbyRg9UwWb95ntUcsMCkl_kNUYoXBL2001vjo7y295I55G6mGY7qu4APLsiVMD-ovFVUAcRMBNMfTRlW55OZDmGLkSOW2eUooxK265PFnlV5cKvOKjuDTgxAsnmaLvmkJGNzfIZh08sP80Hk7aAynCUCrf9bHzeutLa5-KIQaFat3bpuq_FOrKh3_jSRVsjx7mqAJK83JSMnvGna59LwagtM55slXBIh3AbMEKq8P-fAqO9tyefdxPb_KLESZBopc3NH2oNGrw0oMbx42arNPURBVg&reqid=YizvW0bewkkxQnd8&type=VIEW&pos=1",
+                "type": "ProductAdvertType"
+            }
+        ]
+    },
+    "availability": 1,
+    "primary_category_path": "1/2/1789/28856",
+    "product_reco_score": 0,
+    "seller_id": 38963,
+    "visible_impression_info": {
+        "amplitude": {
+            "all_time_quantity_sold": 1437,
+            "brand_name": "Kindle",
+            "category_l1_name": "Điện Thoại - Máy Tính Bảng",
+            "earliest_delivery_estimate": 0,
+            "is_authentic": 1,
+            "is_best_offer_available": false,
+            "is_combo_deal": false,
+            "is_coupon": false,
+            "is_flash_deal": false,
+            "is_gift": true,
+            "is_gift_available": true,
+            "is_hero": true,
+            "is_imported": false,
+            "master_product_sku": "4604296397887",
+            "number_of_reviews": 386,
+            "order_route": "hn_hcm",
+            "origin": "Mỹ",
+            "partner_rewards_amount": 0,
+            "price": 3780000,
+            "primary_category_name": "Máy đọc sách",
+            "product_rating": 5,
+            "search_rank": 0,
+            "seller_id": 38963,
+            "seller_product_id": 125182569,
+            "seller_product_sku": "3945825763277",
+            "seller_type": "NONE",
+            "standard_delivery_estimate": 3.265,
+            "tiki_verified": 1,
+            "tikinow_delivery_estimate": 0,
+            "tikipro_delivery_estimate": 0,
+            "variant": true
+        }
+    }
+}
